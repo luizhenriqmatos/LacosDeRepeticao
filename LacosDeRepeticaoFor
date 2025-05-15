@@ -1,0 +1,17 @@
+Atividade usando FOR
+public class LacosDeRepeticao {
+    public static void main(String[] args) {
+
+        int numeroDeClones = 0;
+        int numeromaximoDeClones = 50;
+
+        for (int i = 0; i <= numeromaximoDeClones; i++) {
+            System.out.println("Clone gerado de N° " + i);
+        }
+
+
+    }
+}
+
+
+
